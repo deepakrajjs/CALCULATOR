@@ -5,7 +5,7 @@
 A visually extraordinary calculator built using **HTML5 Canvas**, **CSS**, and **JavaScript**. All UI elements are drawn and handled on the canvas, complemented by stylish CSS for backgrounds and transitions.
 
 ---
-
+ 
 ## 🚀 Quick Start
  
 ```bash
