@@ -12,3 +12,4 @@ A visually extraordinary calculator built using **HTML5 Canvas**, **CSS**, and *
 git clone https://github.com/deepakrajjs/CALCULATOR.git
 cd CALCULATOR
 # No install needed, just open index.html 
+  
